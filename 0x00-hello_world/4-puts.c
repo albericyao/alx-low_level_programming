@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
-
-int main(void) /*main funtion*/
+/*
+ * main funtion
+*/
+int main(void)
 	{
 	/* Print function */
 	char str1[] = "\"programming is like building a multilingual puzzle";
