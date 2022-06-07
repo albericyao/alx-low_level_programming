@@ -2,7 +2,7 @@
 #include <string.h>
 
 /**
- * main function for printf output
+ * main - function for printf output
  *
  */
 
