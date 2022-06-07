@@ -4,6 +4,7 @@
 /**
  * main - function for printf output
  *
+ * Return: Always 0 
  */
 
 int main(void)
