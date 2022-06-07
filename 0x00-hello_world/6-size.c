@@ -3,7 +3,7 @@
 /**
  * main - function for print size
  *
- * return always 0
+ * return: always 0
  */
 
 int main()
