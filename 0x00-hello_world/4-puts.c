@@ -3,13 +3,9 @@
 
 /*
  * main funtion
-*/
+ */
 int main(void)
 	{
-	char str1[] = "\"programming is like building a multilingual puzzle";
-
-	puts(str1);
-
-	return (1);
-
+	puts("\"programming is like building a multilingual puzzle");
+	return (0);
 	}
