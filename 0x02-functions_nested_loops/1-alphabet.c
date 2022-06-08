@@ -1,9 +1,9 @@
 #include <unistd.h>
 #include "main.h"
 /**
- * main - alphabet
+ * print_alphabet - alphabet
  *
- * Return: always 0
+ * Return: _putchar
  */
 void print_alphabet(void)
 {
