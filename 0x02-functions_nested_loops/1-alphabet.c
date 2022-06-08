@@ -10,7 +10,7 @@ void print_alphabet(void)
 	int i;
 	char convert;
 
-	for (i = 95; i < 123; i++)
+	for (i = 97; i < 123; i++)
 	{
 		convert = i;
 		_putchar(convert);
